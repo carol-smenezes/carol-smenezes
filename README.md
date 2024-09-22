@@ -7,10 +7,3 @@ I have a bachelor's degree in **Computer Science** at [Unisinos](https://www.uni
 ## More about me:
 - 🔭 I’m currently working at [Accruent](https://www.accruent.com/) as a **Technical Writer** on Meridian and Maintenance Connection products.
 - 😄 Pronouns: She/Her
-
-## You can contact me here:
-<div style="display: inline_block">
-  <a href = "mailto:carolsacramentomenezes.2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/carolina-sac-menezes/](https://www.linkedin.com/in/carol-smenezes/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://instagram.com/caah_sacramento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
